@@ -19,16 +19,16 @@ The system can:
 
 ## ✨ Features
 
-📄 PDF & DOCX Resume Upload
-🤖 Claude AI Integration
-👤 Contact Information Extraction
-💼 Work Experience Detection
-🎓 Education Analysis
-🛠️ Skills Extraction
-📊 Candidate Scoring
-🔍 Search & Filter Functionality
-💾 Data Storage with SQLite
-🎨 Modern Dashboard Interface
+- PDF & DOCX Resume Upload
+- Claude AI Integration
+- Contact Information Extraction
+- Work Experience Detection
+- Education Analysis
+- Skills Extraction
+- Candidate Scoring
+- Search & Filter Functionality
+- Data Storage with SQLite
+- Modern Dashboard Interface
 
 ---
 
