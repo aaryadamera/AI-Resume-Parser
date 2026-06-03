@@ -1,6 +1,5 @@
 # 🚀 AI Resume Parser
-
-An AI-powered Resume Parsing and Candidate Screening System that automatically extracts, organizes, and analyzes information from resumes using Claude AI.
+An AI-powered Resume Parsing and Candidate Screening System that automatically extracts, organizes, and analyzes candidate information from resumes, helping recruiters streamline hiring and screening processes.
 
 ## 📌 Overview
 
