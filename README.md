@@ -67,7 +67,6 @@ Structured information extracted from resumes.
 - SQLite
 
 ### AI & Document Processing
-- Claude AI API
 - PyMuPDF
 - Python-Docx
 
@@ -239,16 +238,17 @@ http://localhost:3000
 
 ## 📚 Learning Outcomes
 
-Through this project, I gained experience in:
+Through this project, I gained practical experience in:
 
-- Full-Stack Development
-- FastAPI APIs
-- React Development
-- Claude AI Integration
+- Full-Stack Web Development
+- FastAPI Backend Development
+- React Frontend Development
+- REST API Development
 - Resume Parsing Techniques
-- Database Management
-- Authentication Systems
-- AI-Powered Applications
+- Database Design and Management
+- Authentication and Authorization
+- File Upload and Processing
+- Building Real-World Recruitment Solutions
 
 ---
 
