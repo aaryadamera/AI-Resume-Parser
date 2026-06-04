@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_BASE = 'http://localhost:8000/api'
+const API_BASE = 'https://ai-resume-parser-3-hwwj.onrender.com/api'
 
 export const api = {
   uploadResume: (file) => {
