@@ -1,8 +1,6 @@
 import axios from 'axios'
 
-const API_BASE = 'https://ai-resume-parser-4-mur0.onrender.com'
-
-
+const API_BASE = 'https://ai-resume-parser-4-mur0.onrender.com/api'
 
 export const api = {
   uploadResume: (file) => {
@@ -22,4 +20,3 @@ export const api = {
     return axios.post(`${API_BASE}/match/${id}`, formData)
   }
 }
-
